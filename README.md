@@ -39,9 +39,6 @@ MYNTRA-PROJECT-CLONE/
 └── README.md
 ```
 
-## Landing Page
-![Landing Page](A_modern_and_sleek_landing_page_for_an_e-commerce_.png)
-
 ## Deployment
 This project is hosted on Vercel. To deploy manually:
 - Push code to GitHub
